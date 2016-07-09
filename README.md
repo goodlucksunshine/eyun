@@ -18,5 +18,7 @@
 ## 克隆版本库
 
 操作示例：
+	develop branch add
+
 
     $ git clone git://github.com/gotgithub/helloworld.git
