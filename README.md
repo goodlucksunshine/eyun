@@ -19,6 +19,6 @@
 
 ²Ù×÷Ê¾Àý£º
 	develop branch add
-
+	test reset rsc key
 
     $ git clone git://github.com/gotgithub/helloworld.git
